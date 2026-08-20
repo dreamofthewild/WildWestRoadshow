@@ -209,3 +209,9 @@ footer:after {
         margin: 8px 0 0;
     }
 }
+
+img[src="images/zion.jpg"] {
+    width: 55% !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
