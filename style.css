@@ -86,7 +86,7 @@ nav a:hover {
 }
 
 .hero + .hero + .photo {
-    width: 86%;
+    width: 50%;
     margin-left: 0;
 }
 
