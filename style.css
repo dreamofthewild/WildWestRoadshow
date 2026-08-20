@@ -35,6 +35,22 @@ h1 {
     text-align: left;
 }
 
+.title-row {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.title-row h1 {
+    margin: 0;
+}
+
+.title-row img {
+    width: 110px;
+    height: auto;
+    border: 1px solid #111;
+}
+
 header:after {
     content: "AMERICAN FOLK / COUNTRY / BLUES / BLUEGRASS";
     display: block;
